@@ -1,5 +1,4 @@
-﻿
-using PhoneBook;
+﻿using PhoneBook;
 
 class Program
 {
